@@ -20,7 +20,7 @@ Bundlr is building the future of data storage by bringing the speed and ease of 
 
 - **True Decentralization**. Once on Bundlr, your data is always stored on a decentralized platform
 
-# Commands for [Bundlr node](https://github.com/Avtogen228/Bundlr/blob/main/BundlrNode)
+# Commands to install [Bundlr node](https://github.com/Avtogen228/Bundlr/blob/main/BundlrNode)
 
 Use `curl -s https://raw.githubusercontent.com/Avtogen228/Bundlr/main/BundlrNode > bundlr.sh && \
 chmod +x bundlr.sh && \
